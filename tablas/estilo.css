@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+th, td { padding: 10px;}
+th {color: black;}
+th {background: red;}
+td{color: blue;}
